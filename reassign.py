@@ -1,4 +1,4 @@
-#!/usr/local/bin/python
+#!/usr/local/bin/python3
 from typing import List, Dict
 import json, random, sys, getopt
 
